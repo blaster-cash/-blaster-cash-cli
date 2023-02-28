@@ -1,2 +1,2 @@
-# -blaster-cash-cli
+# blaster-cash-cli
 Solana Blaster Cash command-line tool
